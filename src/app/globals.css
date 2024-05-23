@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  position: center;
+  background: linear-gradient(90deg, #1546B3, #1546B3);
+}
+.BusesForYou{
+  position: center;
+  background: #ffffff;
+  border-radius: 30px;
+  text-align: center; 
+  color: #1A51B4;
+  font-weight: bold;
+}
+.Bus1 {
+  position: center;
+  background: #ffffff;
+  border-radius: 30px;
+}
+.Bus2 {
+  position: center;
+  background: #ffffff;
+  border-radius: 30px;
+}
+.Bus3 {
+  position: center;
+  background: #ffffff;
+  border-radius: 30px;
+
+}
+.Bus1-text{
+  font-weight: bold;
+  text-align: center; 
+  color: #004aad;
+}
+.Bus2-text{
+  text-align: center; 
+  color: #004aad;
+  font-weight: bold;
+}
+.Bus3-text{
+  color: #004aad;
+  font-weight: bold;
+  text-align: center; 
+}
+
+.logo{
+  position: center;
+  right: 0;
+}
+.space{
+  height: 40px
+}
+.Button-text{
+  color: #ffffff;
+  font-weight: bold;
+}
+.BusForYou{
+  position: center;
+  background: #ffffff;
+  border-radius: 30px;
+  text-align: center; 
+  color: #1A51B4;
+  font-weight: bold;
+}
+.YourBus-text{
+  color: #004aad;
+  font-weight: bold;
+  text-align: center; 
+}
+
+.Input1 {
+  color: #9FB7D8;
+  position: center;
+  background: #9FB7D8;
+  border-radius: 30px;
+  font-weight: bold;
+  text-align: center; 
+}
+.Input2 {
+  color: #ffffff;
+  position: center;
+  background: #9FB7D8;
+  border-radius: 30px;
+  font-weight: bold;
+  text-align: center; 
+}
+.logoo{
+  position: center;
+  right: 0;
+}
+.Input1-text{
+  background: #9FB7D8;
+  color: #ffffff;
+}
+.Input2-text{
+  background: #9FB7D8;
+  color: #ffffff;
+}
